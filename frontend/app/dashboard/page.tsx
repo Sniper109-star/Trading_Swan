@@ -1,0 +1,1 @@
+<content of frontend/app/dashboard/page.tsx>

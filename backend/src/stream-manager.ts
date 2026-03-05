@@ -1,0 +1,1 @@
+<content of backend/src/stream-manager.ts>
